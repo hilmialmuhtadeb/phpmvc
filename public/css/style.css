@@ -1,0 +1,11 @@
+/* mahasiswa - list - badge*/
+a.badge {
+  border : 2px solid #28527a;
+  color : #28527a;
+  transition: .2s;
+}
+
+a.badge:hover {
+  background-color: #28527a;
+  color: #f4d160;
+}
